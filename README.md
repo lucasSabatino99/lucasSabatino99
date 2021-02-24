@@ -12,7 +12,7 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSabatino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassabatino/)](https://www.linkedin.com/in/lucassabatino/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-contato@lucassabatino.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@lucassabatino.com-)](mailto:contato@lucassabatino.com-)
+[![Gmail Badge](https://img.shields.io/badge/-contato@lucassabatino.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@lucassabatino.com)](mailto:contato@lucassabatino.com)
 
